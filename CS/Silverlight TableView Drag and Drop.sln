@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Silverlight TableView Drag and Drop", "Silverlight TableView Drag and Drop\Silverlight TableView Drag and Drop.csproj", "{1DF5E205-3B2B-4636-A8A2-C38D4AB5B35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DF5E205-3B2B-4636-A8A2-C38D4AB5B35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF5E205-3B2B-4636-A8A2-C38D4AB5B35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF5E205-3B2B-4636-A8A2-C38D4AB5B35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF5E205-3B2B-4636-A8A2-C38D4AB5B35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
